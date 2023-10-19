@@ -1,4 +1,0 @@
-name: TestLib2
-version: '1.0-SNAPSHOT'
-main: kesero.testlib2.TestLib2
-api-version: '1.17'
